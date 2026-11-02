@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+    <name>zgrocc_f28379d</name>
+    <buildSpec>
+        <buildCommand>
+            <name>com.ti.ccstudio.buildDefinitions.C2000.CBuilder</name>
+        </buildCommand>
+    </buildSpec>
+    <natures>
+        <nature>com.ti.ccstudio.buildDefinitions.C2000.ProjectNature</nature>
+    </natures>
+    <linkedResources>
+        <link>
+            <name>dsp/f28379d</name>
+            <type>2</type>
+            <locationURI>PARENT-2-PROJECT_LOC/dsp/f28379d</locationURI>
+        </link>
+    </linkedResources>
+</projectDescription>
